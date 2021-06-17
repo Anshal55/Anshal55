@@ -8,6 +8,8 @@
 <br>
 <p align = 'center'>
 <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Anshal55" /> 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-587443%20lines%20of%20code-blue)
+
 </p>
 
 <p align="center">
