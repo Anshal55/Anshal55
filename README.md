@@ -3,7 +3,7 @@
 <!-- ![](https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409"Link to gif")
 -->
 
-<img align="right" height="270px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /> 
+<img align="right" height="270px" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2020-12-21-how-we-built-the-github-globe%2F&psig=AOvVaw0_gikZYn0A6U5rampX0kwq&ust=1623993506778000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD1kvv1nfECFQAAAAAdAAAAABAD" /> 
 
 ### I am a Machine Learning Practitioner
 - 🔭 I am interested in Data Science , Machine Learning , Deep Learning , NLP and Computer Vision.
