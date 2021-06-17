@@ -1,10 +1,5 @@
  <h1 align="center">Anshal Singh</h1>
 
-<!-- ![](https://github.blog/wp-content/uploads/2020/12/layers-loop.h264.2020-12-21-11_16_56.gif?resize=640%2C409"Link to gif")
--->
-
-<img align="right" height="270px" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2F2020-12-21-how-we-built-the-github-globe%2F&psig=AOvVaw0_gikZYn0A6U5rampX0kwq&ust=1623993506778000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD1kvv1nfECFQAAAAAdAAAAABAD" /> 
-
 ### I am a Machine Learning Practitioner
 - 🔭 I am interested in Data Science , Machine Learning , Deep Learning , NLP and Computer Vision.
 - 🐍 My choice of Programming language is Python!.
