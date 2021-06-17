@@ -7,8 +7,7 @@
 
 ### I am a Machine Learning Practitioner
 - 🔭 I am interested in Data Science , Machine Learning , Deep Learning , NLP and Computer Vision.
-- 🐍 I’m currently learning more about Python!.
-- 💬 Ask me about anything, I am happy to help :smile:
+- 🐍 My choice of Programming language is Python!.
 
 
 <br>
