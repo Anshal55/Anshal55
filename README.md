@@ -18,7 +18,7 @@
 </p>
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
-<a href="https://www.python.org" target="_blank"> <img src="Images/python.png" alt="python" width="50" height="50" title="Python"/> </a>&nbsp;<a href="https://isocpp.org/" target="_blank"> <img src="Images/c++.png" alt="c++" width="50" height="50" title="C++"/> </a> &nbsp;</a> &nbsp;
+<a href="https://www.python.org" target="_blank"> <img src="Images/python.png" alt="python" width="50" height="50" title="Python"/> </a>&nbsp;<a href="https://isocpp.org/" target="_blank"> <img src="Images/keras.png" alt="c++" width="50" height="50" title="C++"/> </a> &nbsp;</a> &nbsp<a href="https://isocpp.org/" target="_blank"> <img src="Images/c++.png" alt="c++" width="50" height="50" title="C++"/> </a> &nbsp;</a> &nbsp;
 
  
 <h2>ℹ️ &nbsp;Github Info</h2>
