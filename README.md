@@ -7,7 +7,7 @@
 
 <br>
 <p align = 'center'>
-<img align="center" alt="visitors" src="https://gpvc.arturio.dev/nikita1610" /> 
+<img align="center" alt="visitors" src="https://gpvc.arturio.dev/Anshal55" /> 
 </p>
 
 <p align="center">
