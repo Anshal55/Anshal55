@@ -4,13 +4,6 @@
 - 🔭 I am interested in Data Science , Machine Learning , Deep Learning , NLP and Computer Vision.
 - 🐍 My choice of Programming language is Python!.
 
-##  Wakatime Weekly Stats
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-587443%20lines%20of%20code-blue)
-
-
 <br>
 <p align = 'center'>
 <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Anshal55" /> 
