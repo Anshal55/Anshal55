@@ -2,7 +2,7 @@
 
 ### I am a Machine Learning Practitioner
 - 🔭 I am interested in Data Science , Machine Learning , Deep Learning , NLP and Computer Vision.
-- 🐍 My choice of Programming language is Python!.
+- 🐍 My choice of Programming languages are Python and C++.
 
 <br>
 <p align = 'center'>
